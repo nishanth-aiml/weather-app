@@ -1,2 +1,2 @@
-# weather-app
-A weather application that shows current weather based on city name. Uses OpenWeatherMap API and displays temperature, humidity, and weather conditions 
+# simple calculator 
+This repository contains a simple calculator program written in Python. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
