@@ -37,5 +37,5 @@ A simple, beautiful weather application that shows real-time weather data for an
 - Add weather animations
 
 ## Credits
-Created by [Your Name]
+Created by nishanth
 
